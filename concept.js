@@ -1,0 +1,14 @@
+var name = "tanver";
+var age = 19;
+var schoolo = true;
+var number = 45;
+const sum = age + number;
+const mainase = age - number;
+const multiple = age * number;
+const divide = number / age;
+const modulas = number % age;
+console.log("This is a sum:", sum);
+console.log("This is a mainase:", mainase);
+console.log("This is a multiple:", multiple);
+console.log("This is divided:", divide);
+console.log("This is modulas:", modulas);
